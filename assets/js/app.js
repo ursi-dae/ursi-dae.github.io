@@ -15,11 +15,11 @@ let header = $(`
 
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="aboutus.html">About Us</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="staff.html">Staff</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="servers.html">Servers</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="https://discord.gg/9kGbdNNyUt">Discord</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="./index">Home</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="./aboutus">About Us</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="./staff">Staff</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="./servers">Servers</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="./discord">Discord</a></li>
    <li class="nav-item">
    <input type="checkbox" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()">
    </li>
