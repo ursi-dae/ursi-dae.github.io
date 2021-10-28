@@ -118,7 +118,7 @@ background-image: none;
 background-image: none;
 }
 .image-slider .ctrl:hover {
-background-color: rgba(0, 0, 0, 0.5);
+background-color: rgba(0, 0, 0, 0);
 }
 .parallax-slider .swiper-nav-ctrl.next-ctrl {
 right: 0;
@@ -276,5 +276,22 @@ margin-top: 8%;
 .image-slider .text-wrapper .text-inner {
     font-size: 30px;
 }
+}
+.cards {
+    display: flex;
+
+    /* Put a card in the next row when previous cards take all width */
+    flex-wrap: wrap;
+
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+.cards__item {
+    /* There will be 4 cards per row */
+    flex-basis: 25%;
+
+    padding-left: 8px;
+    padding-right: 8px;
 }
   
