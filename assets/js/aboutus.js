@@ -12,7 +12,7 @@ $(document).ready(function () {
       image: "./assets/img/2.png",
     },
     { 
-      title: "URSIDAE-B Guild Home Japanese Theme", 
+      title: "Sunrise At URSIDAE-B Guild Home", 
       image: "./assets/img/3.png" },
     {
       title: "Oipi The Redeemer by SvenCares",
