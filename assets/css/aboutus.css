@@ -107,7 +107,7 @@ background-color: rgba(0, 0, 0, 0.5);
 .content {
 display: flex;
 justify-content: end;
-color: #fff;
+color: rgb(82, 82, 82);
 }
 .swiper-button-next,
 .swiper-container-rtl .swiper-button-prev {

@@ -4,34 +4,34 @@ $(document).ready(function () {
   const event = [
     // eslint-disable-next-line linebreak-style
     {
-      title: "Talk on ABC",
+      title: "URSIDAE-B Guild Home Japanese Theme",
       image: "./assets/img/1.png",
     },
     {
-      title: "Keynote on XYZ",
+      title: "URSIDAE-B Guild Home Japanese Theme",
       image: "./assets/img/2.png",
     },
     { 
-      title: "Group Picture", 
+      title: "URSIDAE-B Guild Home Japanese Theme", 
       image: "./assets/img/3.png" },
     {
-      title: "Presentation",
+      title: "Oipi The Redeemer by SvenCares",
       image: "./assets/img/4.png",
     },
     {
-      title: "Note on XYZ",
+      title: "MemeDonalds by SvenCares",
       image: "./assets/img/5.png",
     },
     {
-      title: "Keytopics",
+      title: "URSIDAE-C Guild Home Spawn",
       image: "./assets/img/6.png",
     },
     {
-      title: "The Gist",
+      title: "URSIDAE-C Guild Home Spawn",
       image: "./assets/img/7.png",
     },
     {
-      title: "Thank You",
+      title: "URSIDAE-C Guild Home Spawn",
       image: "./assets/img/8.png",
     },
   ];
