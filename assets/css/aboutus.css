@@ -461,7 +461,7 @@ div.picture-container:nth-child(8) {
 }
 .hero .item1 {
     width:50%;
-    background: url('../assets/images/designs/hero.png');
+    background: url('../assets/img/hero.png');
     background-repeat: no-repeat;
     background-position: 20% 35%;
     background-size: 350px;
