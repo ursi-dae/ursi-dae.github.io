@@ -5,34 +5,34 @@ $(document).ready(function () {
     // eslint-disable-next-line linebreak-style
     {
       title: "Talk on ABC",
-      image: "assets/img/1.png",
+      image: "./assets/img/1.png",
     },
     {
       title: "Keynote on XYZ",
-      image: "assets/img/2.png",
+      image: "./assets/img/2.png",
     },
     { 
       title: "Group Picture", 
-      image: "assets/img/3.png" },
+      image: "./assets/img/3.png" },
     {
       title: "Presentation",
-      image: "assets/img/4.png",
+      image: "./assets/img/4.png",
     },
     {
       title: "Note on XYZ",
-      image: "assets/img/5.png",
+      image: "./assets/img/5.png",
     },
     {
       title: "Keytopics",
-      image: "assets/img/6.png",
+      image: "./assets/img/6.png",
     },
     {
       title: "The Gist",
-      image: "assets/img/7.png",
+      image: "./assets/img/7.png",
     },
     {
       title: "Thank You",
-      image: "assets/img/8.png",
+      image: "./assets/img/8.png",
     },
   ];
   // Filling the details from the object array event
