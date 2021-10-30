@@ -41,7 +41,7 @@ html {
         background: #ffffff;
         border-radius: 5px;
         box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.3)
-        -webkit-animation: fadein 2s;
+        -webkit-animation;
         animation: fadein 2s;
         overflow: hidden;
         z-index: 999;
@@ -104,4 +104,3 @@ html {
         line-height: 30px;
         color: #000d42
     }
-}
